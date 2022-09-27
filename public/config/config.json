@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x16F55E4fd6C8e04DC2B927152635bb7e23Ae3384",
+  "SCAN_LINK": "https://mainnet-explorer.kekchain.com/address/0x16F55E4fd6C8e04DC2B927152635bb7e23Ae3384/contracts",
+  "NETWORK": {
+    "NAME": "KEK",
+    "SYMBOL": "KEK",
+    "ID": 420420
+  },
+  "NFT_NAME": "kekpunkz NFT",
+  "SYMBOL": "kek",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 999000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
